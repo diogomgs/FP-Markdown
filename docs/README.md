@@ -1,21 +1,20 @@
 # FP-Markdown
 
-Diogo Martins Gaspar da Silva
+Diogo Silva
+`2220880`
 
- `2220880`
+### Linguagens de programação conhecidas:
 
-#### Linguagens de programação conhecidas:
+* C
 
-* **C#**
+* Javascript
 
-* **Javascript**
+* Python
 
-* **Python**
+* ...
 
-* **C**
-* **...**
+----
 
->  Metodologias de desenvolvimento de Software @ 2023
+> Metodologias de Desenvolvimento de Software @2020
 
-![ipl](https://eduportugal.eu/wp-content/uploads/2017/08/eduportugal_ipleiria_n.jpg)
-
+![Image](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png)
